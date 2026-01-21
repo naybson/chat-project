@@ -56,7 +56,6 @@ class UsernameDialog:
         status.pack(pady=(8, 0))
 
         #===========================
-
         # This function acts as the handshake handler
         # Loops one byte at a time until we get \n
         def recv_line(sock):
