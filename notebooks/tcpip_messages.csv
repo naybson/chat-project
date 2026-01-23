@@ -1,0 +1,11 @@
+msg_id,app_protocol,src_app,dst_app,message,timestamp
+1,HTTP,client_browser,web_server,GET /index.html,0.015
+2,HTTP,web_server,client_browser,200 OK,0.03
+3,DNS,client_browser,dns_server,Query example.com,0.05
+4,DNS,dns_server,client_browser,Response example.com -> 93.184.216.34,0.07
+5,HTTP,client_browser,web_server,POST /login,0.1
+6,HTTP,web_server,client_browser,302 Redirect,0.115
+7,DNS,client_browser,dns_server,Query google.com,0.13
+8,DNS,dns_server,client_browser,Response google.com -> 142.250.190.14,0.15
+9,HTTP,client_browser,web_server,GET /dashboard,0.2
+10,HTTP,web_server,client_browser,200 OK,0.22
