@@ -1,3 +1,17 @@
+# TCP Client-Server Chat System
+
+This project implements a client-server chat system using Python sockets.
+
+The server manages multiple clients and routes messages between them in real time.  
+The project also includes network traffic analysis using Wireshark to study how the chat protocol behaves over TCP.
+
+## Features
+
+• Multi-client chat server  
+• Real-time messaging  
+• GUI client using Tkinter  
+• Private messaging support  
+• Network traffic analysis with Wireshark
 # TCP Chat System
 
 # Folder descriptions
@@ -45,3 +59,4 @@ The server supports multiple clients simultaneously, and each client uses a simp
 ## Notes
 - Communication uses 127.0.0.1 (localhost)
 - Intended for local execution and Wireshark traffic analysis
+
