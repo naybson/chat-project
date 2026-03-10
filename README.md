@@ -12,7 +12,6 @@ The project also includes network traffic analysis using Wireshark to study how 
 • GUI client using Tkinter  
 • Private messaging support  
 • Network traffic analysis with Wireshark
-# TCP Chat System
 
 # Folder descriptions
 # src/
@@ -59,4 +58,5 @@ The server supports multiple clients simultaneously, and each client uses a simp
 ## Notes
 - Communication uses 127.0.0.1 (localhost)
 - Intended for local execution and Wireshark traffic analysis
+
 
