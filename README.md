@@ -13,6 +13,19 @@ The project also includes network traffic analysis using Wireshark to study how 
 • Private messaging support  
 • Network traffic analysis with Wireshark
 
+
+## 📸 Demo
+
+### 🚀 Chat System Launcher
+<p align="center">
+  <img src="img/img1.png" width="600"/>
+</p>
+
+### 👤 Username Selection
+<p align="center">
+  <img src="img/img2.png" width="400"/>
+</p>
+
 # Folder descriptions
 # src/
 Contains the Python source code of the project:
@@ -59,17 +72,6 @@ The server supports multiple clients simultaneously, and each client uses a simp
 - Communication uses 127.0.0.1 (localhost)
 - Intended for local execution and Wireshark traffic analysis
 
-## 📸 Demo
-
-### 🚀 Chat System Launcher
-<p align="center">
-  <img src="img/img1.png" width="600"/>
-</p>
-
-### 👤 Username Selection
-<p align="center">
-  <img src="img/img2.png" width="400"/>
-</p>
 
 ### 💬 Real-Time Chat Interface
 <p align="center">
